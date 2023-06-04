@@ -1,0 +1,18 @@
+#include <iostream>
+#include "PilaVector.h"
+using namespace std;
+int main(){
+
+
+	 PilaVector* P=new PilaVector();
+	 P->Meter(1);
+	 P->Meter(3);
+	 P->Meter(5);
+	 P->Meter(5);
+     P->mostrar();
+     system("Pause");
+	 return 0;
+
+
+
+}

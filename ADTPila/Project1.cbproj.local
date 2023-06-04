@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/06/03 18:28:41.426,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/03 18:28:42.217,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2023/06/03 18:29:05.165,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ADTPila\File2.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2023/06/03 18:29:19.582,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/06/03 18:29:44.985,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\PilaVector.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/06/03 18:29:44.985,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\PilaVector.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/06/03 19:19:26.756,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ADTPila\PilaVector.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\PilaVector.h</Transaction>
+    <Transaction>2023/06/03 19:19:26.756,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ADTPila\PilaVector.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\PilaVector.cpp</Transaction>
+    <Transaction>2023/06/03 19:19:32.553,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ADTPila\Project1PCH1.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/06/03 19:19:37.716,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ADTPila\Project1.cbproj=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
